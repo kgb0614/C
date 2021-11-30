@@ -1,0 +1,18 @@
+﻿  main.c
+C:\Users\정보통신과\source\repos\Mid_Test\ALSWH13\main.c(33,2): error C2143: 구문 오류: ';'이(가) '}' 앞에 없습니다.
+C:\Users\정보통신과\source\repos\Mid_Test\ALSWH13\main.c(39,1): error C2143: 구문 오류: ';'이(가) '}' 앞에 없습니다.
+C:\Users\정보통신과\source\repos\Mid_Test\ALSWH13\main.c(61,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+C:\Users\정보통신과\source\repos\Mid_Test\ALSWH13\main.c(62,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+C:\Users\정보통신과\source\repos\Mid_Test\ALSWH13\main.c(63,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+C:\Users\정보통신과\source\repos\Mid_Test\ALSWH13\main.c(64,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+C:\Users\정보통신과\source\repos\Mid_Test\ALSWH13\main.c(65,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+C:\Users\정보통신과\source\repos\Mid_Test\ALSWH13\main.c(68,8): warning C4473: 'scanf': 서식 문자열에 대한 인수가 충분하게 전달되지 않았습니다.
+C:\Users\정보통신과\source\repos\Mid_Test\ALSWH13\main.c(68,8): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 6개 필요하지만 5개가 제공되었습니다.
+C:\Users\정보통신과\source\repos\Mid_Test\ALSWH13\main.c(68,8): message : 누락된 variadic 인수 6이(가) 서식 문자열 '%d'에 필요합니다.
+C:\Users\정보통신과\source\repos\Mid_Test\ALSWH13\main.c(83,1): error C2449: 파일 범위에 '{'가 있습니다. 함수 헤더가 없는 것 같습니다.
+C:\Users\정보통신과\source\repos\Mid_Test\ALSWH13\main.c(91,1): error C2059: 구문 오류: '}'
+C:\Users\정보통신과\source\repos\Mid_Test\ALSWH13\main.c(117,37): warning C4473: 'scanf_s': 서식 문자열에 대한 인수가 충분하게 전달되지 않았습니다.
+C:\Users\정보통신과\source\repos\Mid_Test\ALSWH13\main.c(117,37): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 2개 필요하지만 1개가 제공되었습니다.
+C:\Users\정보통신과\source\repos\Mid_Test\ALSWH13\main.c(117,37): message : 누락된 variadic 인수 2이(가) 서식 문자열 '%c'에 필요합니다.
+C:\Users\정보통신과\source\repos\Mid_Test\ALSWH13\main.c(117,37): message : 이 인수는 버퍼 크기로 사용됩니다.
+C:\Users\정보통신과\source\repos\Mid_Test\ALSWH13\main.c(124,53): warning C4013: 'calcuator'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.

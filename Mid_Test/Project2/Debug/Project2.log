@@ -1,0 +1,2 @@
+﻿  main.c
+C:\Users\정보통신과\source\repos\Mid_Test\Project2\main.c(3,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'test01.h': No such file or directory
